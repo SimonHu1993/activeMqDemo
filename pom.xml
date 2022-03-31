@@ -9,7 +9,7 @@
     <url>http://maven.apache.org</url>
     <!-- 版本管理 -->
     <properties>
-        <springframework>4.1.8.RELEASE</springframework>
+        <springframework>5.3.18</springframework>
     </properties>
 
     <dependencies>
